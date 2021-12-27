@@ -2,15 +2,15 @@
 
 font-family: manofa, sans-serif;
 
-font-weight: 400;
+font-weight: 300;
 
 font-style: normal;
 }
 
 .kr{
-    font-family: source-han-sans-korean, sans-serif;
+font-family: source-han-sans-korean, sans-serif;
 
-font-weight: 500;
+font-weight: 300;
 
 font-style: normal;
 
@@ -33,9 +33,33 @@ word-break: keep-all;
 
 .box{
     margin-top: 3vh;
-    border-top: 0.5px dotted black ;
+    border-top: 0px dotted black ;
 }
 
 .innertext{
     display: inline;
+}
+
+.link{
+    position: relative;
+    display: inline-flex;
+    margin-right:1em;
+}
+
+span{
+    margin-left
+    
+}
+
+h3{
+    margin: 0px;
+}
+
+p{
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+}
+
+.one, .two, .three, .four, .five{
+    margin-top: 15vh;
 }

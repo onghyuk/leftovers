@@ -22,6 +22,10 @@ word-break: keep-all;
     
 }
 
+.headtext{
+    font-family: sans-serif;
+}
+
 .ytplayer{
     width: 100%;
     height: 35vh;

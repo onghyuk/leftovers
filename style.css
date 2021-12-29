@@ -46,10 +46,7 @@ word-break: keep-all;
     margin-right:1em;
 }
 
-span{
-    
-    
-}
+
 
 h3{
     margin: 0px;
@@ -60,6 +57,10 @@ p{
     margin-block-end: 0.5em;
 }
 
-.one, .two, .three, .four, .five{
+.two, .three, .four, .five{
     margin-top: 15vh;
+}
+
+a{
+    color:black;
 }
